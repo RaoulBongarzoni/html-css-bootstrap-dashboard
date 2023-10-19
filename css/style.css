@@ -1,0 +1,14 @@
+
+header{
+    height: 8vh;
+}
+
+main{
+    height: calc(100vh - 8vh);
+
+}
+
+#jumbo{
+    height: 100px;
+/*     height: fit-content; */
+}
